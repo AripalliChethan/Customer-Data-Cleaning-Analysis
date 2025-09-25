@@ -5,8 +5,11 @@ To clean, process, and analyze customer transaction data using Python (Pandas & 
 
 ## Dataset used
 - <a href="https://www.kaggle.com/datasets/regivm/retailtransactiondata">DataSet</a>
+
 -Transaction dataset containing customer purchases, spending, and product details.
+
 -Response dataset with customer feedback/engagement.
+
 -Datasets were merged and cleaned for analysis.
 
 ## Process
