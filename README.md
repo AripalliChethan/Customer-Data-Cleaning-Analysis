@@ -4,7 +4,10 @@
 To clean, process, and analyze customer transaction data using Python (Pandas & NumPy), ensuring data quality and generating insights on spending patterns, customer responses, and revenue distribution.
 
 ## Dataset used
-- <a href="https://www.kaggle.com/datasets/regivm/retailtransactiondata">DataSet from kaggale</a>
+<a href="https://www.kaggle.com/datasets/regivm/retailtransactiondata">DataSet from kaggale</a>
+
+## Customer-Transaction-Analysis
+Interaction <a href="https://github.com/AripalliChethan/Customer-Data-Cleaning-Analysis/blob/main/data%20cleaning%20preparation.project%20(1).ipynb">Customer-Transaction-Analysis </a>
 
 -Transaction dataset containing customer purchases, spending, and product details.
 
